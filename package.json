@@ -1,0 +1,9 @@
+{
+  "name": "failed-bin-wrapper",
+  "version": "0.0.0",
+  "description": "",
+  "dependencies": {
+    "bin-wrapper": "^3.0.2",
+    "elm": "^2.0.0"
+  }
+}
